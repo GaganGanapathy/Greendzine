@@ -55,7 +55,7 @@ function Employee() {
           <img src={moto} alt="" />
         </div>
         <div>
-          <div className="input-group mb-3 py-2">
+          <div className="input-group mb-3 py-2 px-3">
             <input
               type="text"
               className="form-control border border-end-0 search py-2"
