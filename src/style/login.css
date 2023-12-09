@@ -1,0 +1,31 @@
+.background {
+  height: 100vh;
+  background: transparent linear-gradient(180deg, #000000 0%, #000e09 100%) 0%
+    0% no-repeat padding-box;
+}
+
+.input {
+  border-radius: 25px;
+  background: #1f191966 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 3px 3px #fffdfd40, 3px 3px 3px #4a494947;
+  mix-blend-mode: normal;
+  opacity: 1;
+  color: #1f191966;
+  border-color: black;
+}
+
+.button {
+  background: transparent
+    linear-gradient(180deg, #00ff2580 0%, #000000 100%, #36a54680 100%) 0% 0%
+    no-repeat padding-box;
+  width: 100%;
+  border-radius: 25px;
+  border: 2px solid #8cff0026;
+}
+
+.forgot_password {
+  font: normal normal normal 15px/20px Mulish;
+  letter-spacing: 0.02px;
+  color: #36a546;
+  opacity: 1;
+}

@@ -1,0 +1,28 @@
+p {
+  background-color: #1a2c2c99;
+  padding: 5px;
+  color: #ffffffb3;
+  border-radius: 25px;
+}
+
+.home_background {
+  background-color: #5e5e5e82;
+  border-radius: 15px;
+}
+
+.productivity {
+  color: #ffffff;
+}
+.percentage {
+  color: #36a546;
+}
+
+.progress {
+  background-color: transparent;
+  width: 50%;
+}
+
+.progress-bar {
+  background-color: #36a546;
+  border-radius: inherit;
+}

@@ -1,0 +1,47 @@
+.input-group {
+  background-color: #595959;
+  --bs-border-width: none;
+  border-radius: 25px;
+}
+
+.form-control::placeholder {
+  color: #ffffffb3;
+  text-align: center;
+}
+
+i {
+  color: white;
+}
+
+table {
+  width: 350px;
+  border-radius: 10px;
+}
+
+/* .table > :not(caption) > * > * {
+  background-color: #595959 !important;
+} */
+
+tr,
+td {
+  background-color: transparent;
+}
+td {
+  padding: 10px;
+}
+.search {
+  background-color: transparent;
+}
+.white {
+  color: white !important;
+}
+
+.rowName {
+  color: darkgray !important;
+}
+
+.circle {
+  border: 1px solid #000e09;
+  border-radius: 50%;
+  padding: 0 6px;
+}
